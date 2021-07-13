@@ -30,3 +30,7 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+#### An image
+
+![](/img/matt-duncan-IUY_3DvM__w-unsplash.jpg)
